@@ -1,7 +1,7 @@
 - 👋 Hola, soy @Daysukee
 - 👀 Estoy interesado en trabajar para Microsoft
 - 🌱 Actualmente estoy aprendiendo C++
-- 💞️ Busco colaborar en Hyfe
+- 💞️ Actualmente soleto 
 - 📫 Como llegar a mi, resido en Perú
 
 <!---
