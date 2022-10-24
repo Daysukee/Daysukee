@@ -6,8 +6,9 @@
 
 Cosas que busco aprender:
 - [x] Java
-- [ ] Python
 - [ ] C++
+- [ ] Python
+- [ ] JavaScript
 <br>
 Puedes ver en mis repositorios mis trabajos actuales, tengo varios en privados y en otras organizaciones<br>
 Plugins:<br>
