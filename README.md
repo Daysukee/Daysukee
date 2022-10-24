@@ -10,7 +10,7 @@ Cosas que busco aprender:
 - [ ] Python
 - [ ] JavaScript
 <br>
-Puedes ver en mis repositorios mis trabajos actuales, tengo varios en privados y en otras organizaciones<br>
+Puedes ver en mis repositorios mis trabajos actuales, tengo varios en privados<br>
 Plugins:<br>
 
 #### Stats:
