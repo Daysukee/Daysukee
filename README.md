@@ -5,7 +5,7 @@
 - 📫 Como llegar a mi, resido en Perú
 
 Cosas que busco aprender:
-- [☑] Java
+- [x] Java
 - [x] Python
 - [x] C++
 <br>
