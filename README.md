@@ -11,7 +11,6 @@ Cosas que busco aprender:
 - [ ] JavaScript
 <br>
 Puedes ver en mis repositorios mis trabajos actuales, tengo varios en privados<br>
-Plugins:<br>
 
 #### Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daysukee&theme=github_dark)
