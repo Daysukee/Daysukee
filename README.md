@@ -16,6 +16,7 @@ Plugins:<br>
 #### Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daysukee&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Daysukee&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Daysukee&theme=github_dark)
 
 <a href="https://github.com/Daysukee">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=daysukee&show_icons=true&include_all_commits=false&theme=radical&count_private=true%22%20alt=%22Daysukee%27s%20Github%20Estadísticas" />
