@@ -1,4 +1,4 @@
-- 👋 Hola, soy @LancerTS mi nombre es Daysuke Rojas
+- 👋 Hola, soy @Shande
 - 👀 Estoy interesado en trabajar para Microsoft
 - 🌱 Actualmente estoy aprendiendo C++
 - 💞️ Actualmente soltero 
