@@ -1,5 +1,5 @@
 - 👋 Hola, soy @Shande
-- 👀 Estoy interesado en trabajar para Microsoft
+- 👀 Estoy interesado en trabajar en el extranjero
 - 🌱 Actualmente estoy aprendiendo C++
 - 💞️ Actualmente soltero 
 - 📫 Como llegar a mi, resido en Perú
